@@ -1632,7 +1632,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 645971913}
-  m_LocalRotation: {x: 0.10410281, y: -0.011563484, z: 0.0012104505, w: 0.9944986}
+  m_LocalRotation: {x: 0.10410281, y: -0.011563475, z: 0.0012104496, w: 0.9944986}
   m_LocalPosition: {x: 0.18601401, y: 3, z: -17.997837}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -1769,7 +1769,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 788131746}
-  m_LocalRotation: {x: 0.10410278, y: -0.011563515, z: 0.0012107497, w: 0.99449867}
+  m_LocalRotation: {x: 0.10410278, y: -0.011563507, z: 0.0012107488, w: 0.99449867}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -1843,7 +1843,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 929417109}
-  m_LocalRotation: {x: 0.12217499, y: -0.011539556, z: 0.0014205044, w: 0.9924405}
+  m_LocalRotation: {x: 0.122175016, y: -0.011539522, z: 0.0014205005, w: 0.9924405}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -1860,6 +1860,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1021638798}
+  - component: {fileID: 1021638799}
   m_Layer: 0
   m_Name: Porticullis
   m_TagString: Untagged
@@ -1884,6 +1885,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &1021638799
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1021638797}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 757fef571ae4dc14595417a4f564226e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1060580894
 GameObject:
   m_ObjectHideFlags: 0
@@ -4530,7 +4550,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1946633968}
-  m_LocalRotation: {x: 0.08604402, y: -0.011583536, z: 0.0010005232, w: 0.99622357}
+  m_LocalRotation: {x: 0.08604402, y: -0.011583544, z: 0.0010005239, w: 0.99622357}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
